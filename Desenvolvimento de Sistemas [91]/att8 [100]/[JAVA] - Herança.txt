@@ -1,0 +1,52 @@
+﻿1. O que cada trecho de código faz?
+
+
+a) Suponha que a seguinte chamada de método esteja localizada em um método earnings sobrescrito em uma subclasse:
+
+
+super.earnings()
+
+
+* Executa o metodo earnings da superClasse.
+
+
+b) Suponha que a seguinte linha de código apareça antes de uma declaração de método:
+
+
+@Override
+
+
+* Este trecho do código faz com que o metodo abaixo esteja sobrescrevendo um metodo ja existente.
+
+
+c) Suponha que a seguinte linha de código apareça como a primeira instrução no corpo de um construtor:
+
+
+super(firstArgument, secondArgument);
+
+
+* Faz com que no construtor tenha a herança dos atributos escolhidos da superclasse.
+
+
+2. Escreva uma linha do código que realiza cada uma das seguintes tarefas:
+
+
+a) Especifique que a classe PieceWorker é herdada da classe Employee.
+
+
+* Public class PieceWorker extends Employee()
+
+
+b) Chame o método toString da superclasse Employee a partir do método toString da subclasse PieceWorker.
+
+
+* super.toString();
+
+
+c) Chame o construtor da superclasse Employee a partir do construtor da subclasse PieceWorker — suponha que o construtor da superclasse receba três Strings que representam o primeiro nome, o sobrenome e o número de seguro social.
+
+
+* //Metodo com inserção por variaveis.
+* Employee emp = new Employee(nome,sobrenome,nomeSocial);
+* //Metodo com Inserção direta.
+* Employee emp = new Employee(“Rodrigo”,”Seixas”,”FeraDms”);

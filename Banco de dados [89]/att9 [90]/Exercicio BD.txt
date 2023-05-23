@@ -1,0 +1,52 @@
+01. No que se refere aos modelos de banco de dados: conceitual, lógico e físico, assim como a sua implementação em um SGBD, apresentam-se cinco afirmações. Selecione a alternativa CORRETA
+Alternativas
+A Os SGBD requerem o fornecimento de um modelo conceitual associado ao Banco de Dados.
+B O modelo conceitual define de maneira explícita as chaves primárias das tabelas.
+C O modelo lógico é escrito na linguagem SQL.
+D O modelo físico leva em conta as limitações impostas pelo SGBD.
+E A diferença entre o modelo lógico e o modelo conceitual é que o primeiro é um modelo gráfico enquanto que o segundo é um documento de texto sem imagens.
+*********************************************************
+02. Cardinalidade mínima representa o mínimo de ocorrências de uma entidade associadas a uma ocorrência de uma entidade através de um relacionamento.
+Alternativas
+Certo
+Errado
+*********************************************************
+03. Em um projeto de banco de dados, o modelo conceitual busca definir como as tabelas serão utilizadas.
+Alternativas
+Certo
+Errado
+*********************************************************
+04. Os modelos de dados demonstram como serão construídas as estruturas de dados que darão suporte aos processos de negócio, como os dados estarão organizados e quais relacionamentos serão estabelecidos. Sobre o modelo conceitual, assinale a alternativa correta .
+Alternativas
+A Demonstra as ligações entre as tabelas de banco de dados, as chaves primárias e os componentes de cada uma
+B Inclui a análise das características e recursos necessários para armazenamento e manipulação das estruturas de dados
+C Inclui uma sequência de comandos executados em SQL a fim de criar as tabelas, estruturas e ligações projetadas
+D É um diagrama em blocos que demonstra todas as relações entre as entidades, suas especializações, seus atributos e auto -relações
+*********************************************************
+05. Um sistema gerenciador de banco de dados utiliza metadados, persistidos em bancos de dados, para
+Alternativas
+A avaliar o seu próprio desempenho, considerando metas pré-estabelecidas pelo administrador do banco de dados.
+B decidir que páginas de dados sujas na sua cache precisam ser persistidas em disco.
+C implementar o isolamento entre transações concorrentes.
+D permitir a restauração de um estado íntegro do banco de dados, em caso de falha.
+E validar comandos SQL informados por um usuário. 
+*********************************************************
+06. Acerca do Sistema Gerenciador de Banco de Dados (SGBD), julgue o item a seguir.
+Os sistemas de banco de dados são classificados em modelo relacional e modelo estruturado.
+Alternativas
+Certo
+Errado
+*********************************************************
+07. Em um sistema gerenciador de banco de dados, as restrições de integridade são utilizadas para
+Alternativas
+A limitar a quantidade de dados acessados pelos usuários.
+B controlar os formatos de entrada de dados e garantir a validade da entrada de dados.
+C conservar o espaço de armazenamento.
+D proteger contra danos acidentais em banco de dados.
+E criar os principais objetos em um banco de dados.
+********************************************************
+08. O que é ACID? Fale sobre cada item.
+********************************************************
+09. O que são regras de negócios?
+********************************************************
+10. Cite 10 exemplos de regras de negócios de uma instituição bancária.

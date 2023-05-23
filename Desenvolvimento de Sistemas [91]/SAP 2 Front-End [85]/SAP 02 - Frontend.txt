@@ -1,0 +1,8 @@
+﻿Caro aluno,
+
+
+Você deverá construir as telas que se encontram no arquivo abaixo. Você pode utilizar as tecnologias abordadas em sala de aula para desenvolvê-las. 
+Todo o código, de cada tela, deverá ser desenvolvido em único arquivo, adicionando a estilização e os scripts no arquivo .html.
+
+
+Bom desempenho a todos!

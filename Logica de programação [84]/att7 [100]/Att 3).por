@@ -1,0 +1,1 @@
+programa{	funcao inicio(){	inteiro num = 1, contador = 0	enquanto(contador<=99){	 se(num%2==1)	    escreva(num,"\n")	    num++	    contador++	    }	}}

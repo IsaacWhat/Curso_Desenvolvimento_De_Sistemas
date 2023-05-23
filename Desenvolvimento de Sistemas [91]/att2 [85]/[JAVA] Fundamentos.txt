@@ -1,0 +1,5 @@
+﻿▪Crie uma função com dois argumentos que  retornarão uma matriz dos primeiros n múltiplos de  x. Suponha que tanto o número dado quanto o  número de vezes contados serão números positivos  superiores a 0.
+  
+
+▪Dado um mês como inteiro de 1 a 12, retorne ao  qual trimestre do ano ele pertence como um  número inteiro. 
+▪Por exemplo: mês 2 (fevereiro), faz parte do  primeiro trimestre; mês 6 (junho), faz parte do  segundo trimestre; e o mês 11 (novembro), faz  parte do quarto trimestre.

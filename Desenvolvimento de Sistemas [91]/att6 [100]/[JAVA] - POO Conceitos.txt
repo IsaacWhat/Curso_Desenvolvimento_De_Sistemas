@@ -1,0 +1,24 @@
+﻿1. Qual é o objetivo da palavra-chave new? Explique o que acontece quando você a utiliza.
+
+
+* O objetivo da palavra-chave new é criar objetos, após o uso do new ele criará um objeto da classe escolhida com suas variaveis, contrutores e metodos.
+2. O que é um construtor padrão? Como as variáveis de instância de um objeto são inicializadas se uma classe tiver somente um construtor padrão?
+
+
+* O construtor padrão é o construtor que não precisa de variaveis para ser iniciado, as variaveis vem com valor padrão do sistema que pode ser null ou 0.
+3. Explique o propósito de uma variável de instância.
+
+
+* Guardar dados.
+4. A maioria das classes precisa ser importada antes de ser usada em um aplicativo. Por que cada aplicativo pode utilizar as classes System e String sem importá-las antes?
+
+
+* Porque elas já vêm  importadas inicialmente no pacote java.lang diferentemente de outras classes que precisam de import manual.
+5. Explique por que uma classe pode fornecer um método set e um método get para uma variável de instância.
+
+
+* Para caso a variavel seja privada a classe que ela pertence poder se comunicar com o resto das classes.
+6. Qual é a diferença entre uma variável local e uma variável de instância?
+
+
+* Uma variavel local é uma variavel que existe somente durante uma execução de um bloco de codigos,  A variavel de instância é uma que o valor é especificado somente ao objeto.

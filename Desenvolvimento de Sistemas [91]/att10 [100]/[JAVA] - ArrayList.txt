@@ -1,0 +1,14 @@
+﻿Atividade 1
+Crie uma classe TesteArrayListNumero que possui um método main.
+Dentro do main crie um ArrayList de Integer.
+Adicione 10 números informados pelo usuário.
+Se o usuário tiver digitado os números 10, 100 ou 1000 mostre uma mensagem informando que ele ganhou um bônus de R$ 50,00.
+
+
+Atividade 2
+Crie uma classe TesteArrayListString que possui um método main.
+Dentro do main crie um ArrayList de String (lista1).
+Adicione 10 Strings informadas pelo usuário.
+Percorra a lista verificando se o usuário digitou alguma String com menos de 3 caracteres. Em caso positivo, adicione essa String em outra lista que você vai criar (lista2).
+Utilizando o método removeAll, remova todos os elementos dessa segunda lista (lista2) da lista principal (lista1).
+No final imprima a quantidade de Strings da lista.

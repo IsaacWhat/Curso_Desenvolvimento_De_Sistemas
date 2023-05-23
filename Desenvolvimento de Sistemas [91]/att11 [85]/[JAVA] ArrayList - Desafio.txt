@@ -1,0 +1,8 @@
+﻿Implemente uma classe Conta que possui um saldo como atributo.
+
+
+Crie uma classe teste onde possui uma lista de vários objetos do tipo Conta.
+
+
+Ordene essa lista a partir do saldo da conta.
+

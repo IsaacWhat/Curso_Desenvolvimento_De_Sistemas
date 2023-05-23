@@ -1,0 +1,10 @@
+﻿01. Crie as classes da imagem abaixo;
+02. Faça atributos e métodos;
+03. Faça 3 construtores;
+04. Faça gets, sets e toString;
+05. Observe se há uma relação de herança;
+06. Observe se há polimorfismo;
+07. Tranforme veículos em uma classe abstrata;
+08. Crie um método abstrato;
+09. Crie uma interface para aplicar a esse exemplo;
+10. Adicione os abjetos a um vetor.
